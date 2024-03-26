@@ -10,6 +10,6 @@
 
    * LEFT JOIN
    * ROGHT JOIN
- 
-  - UNION
-  - USING CLAUSE
+     
+- UNION
+- USING CLAUSE
